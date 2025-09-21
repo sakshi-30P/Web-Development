@@ -1,2 +1,2 @@
 # Web-Development
-E-Commerce Website with HTML, CSS
+E-Commerce Website with HTML, CSS.
